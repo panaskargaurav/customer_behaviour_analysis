@@ -19,8 +19,8 @@ The project transforms raw transactional data into meaningful business intellige
 
 # 🛠️ Tech Stack
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** (MySQL / PostgreSQL / MS SQL Server)
+- **Python** (Pandas)
+- **SQL** (PostgreSQL)
 - **Power BI**
 - **Jupyter Notebook**
 - **Gamma AI** (Presentation Creation)
