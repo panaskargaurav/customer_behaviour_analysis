@@ -120,7 +120,7 @@ customer_behaviour_analysis/
 
 ## Step 1️⃣ Clone the Repository
 
-```bash
+
 git clone https://github.com/panaskargaurav/customer_behaviour_analysis
 
 ## Step 2️⃣ Run Python Notebook
@@ -153,7 +153,7 @@ customer_behavior_sql_queries.sql
 
 Run queries to answer business questions
 
-Step 4️⃣ Open Power BI Dashboard
+## Step 4️⃣ Open Power BI Dashboard
 
 Open:
 
@@ -165,7 +165,7 @@ Refresh data
 
 Explore interactive dashboard
 
-📈 Business Insights (Sample)
+## 📈 Business Insights (Sample)
 
 High-value customers contribute disproportionately to total revenue.
 
@@ -177,7 +177,7 @@ Seasonal patterns influence shopping behavior.
 
 Loyalty strategies can significantly increase retention.
 
-📚 Skills Demonstrated
+## 📚 Skills Demonstrated
 
 Data Cleaning & Preprocessing
 
@@ -195,7 +195,7 @@ Analytical Thinking
 
 End-to-End Project Execution
 
-🎯 Why This Project Matters
+## 🎯 Why This Project Matters
 
 ✔ Work with raw data
 ✔ Write efficient SQL queries
@@ -204,7 +204,7 @@ End-to-End Project Execution
 
 This project showcases all of the above in one complete workflow.
 
-🧠 Future Improvements
+## 🧠 Future Improvements
 
 Add RFM Segmentation
 
@@ -216,13 +216,13 @@ Build Streamlit Web App Version
 
 Automate data pipeline
 
-⭐ If You Like This Project
+## ⭐ If You Like This Project
 
 Give this repository a ⭐ on GitHub
 Connect with me on LinkedIn
 Share feedback & suggestions
 
-👨🏻‍💻 Author
+## 👨🏻‍💻 Author
 
 Gaurav Panaskar
 🔗 LinkedIn: https://www.linkedin.com/in/gaurav-panaskar
