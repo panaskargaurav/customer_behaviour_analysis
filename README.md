@@ -105,13 +105,8 @@ This project answers key business questions such as:
 ---
 
 # 📁 Repository Structure
-customer_behaviour_analysis/
-│
-├── Customer_Shopping_Behavior_Analysis.ipynb
-├── customer_behavior_sql_queries.sql
-├── customer_behavior_dashboard.pbix
-├── project_report.pdf
-└── README.md
+<img width="481" height="212" alt="image" src="https://github.com/user-attachments/assets/85451d36-5e5b-4783-b9b7-af77e10daab6" />
+
 
 
 ---
