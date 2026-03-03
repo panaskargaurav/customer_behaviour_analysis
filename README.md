@@ -1,117 +1,110 @@
-👨🏻‍💻 Customer Shopping Behavior Analysis
-📊 End-to-End Data Analytics Portfolio Project
-🚀 Project Overview
+# 👨🏻‍💻 Customer Shopping Behavior Analysis  
+## 📊 End-to-End Data Analytics Portfolio Project  
 
-This project demonstrates a complete industry-level end-to-end Data Analytics workflow, simulating real-world responsibilities of a professional Data Analyst in a corporate environment.
+---
 
-The objective is to analyze customer shopping behavior, identify patterns in purchasing decisions, and generate actionable business insights using:
+# 🚀 Project Overview
 
-🐍 Python
+This project demonstrates a **complete industry-level end-to-end Data Analytics workflow**, simulating real-world responsibilities of a professional Data Analyst in a corporate environment.
 
-🗄️ SQL
+The objective is to analyze **customer shopping behavior**, identify patterns in purchasing decisions, and generate actionable business insights using:
 
-📊 Power BI
+- 🐍 **Python**
+- 🗄️ **SQL**
+- 📊 **Power BI**
 
 The project transforms raw transactional data into meaningful business intelligence insights, supporting data-driven decision-making.
 
-🛠️ Tech Stack
+---
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+# 🛠️ Tech Stack
 
-SQL (MySQL / PostgreSQL / MS SQL Server)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (MySQL / PostgreSQL / MS SQL Server)
+- **Power BI**
+- **Jupyter Notebook**
+- **Gamma AI** (Presentation Creation)
 
-Power BI
+---
 
-Jupyter Notebook
+# 📌 Business Problem
 
-Gamma AI (Presentation Creation)
-
-📌 Business Problem
-
-Retail businesses generate massive amounts of transaction data daily.
+Retail businesses generate massive amounts of transaction data daily.  
 However, raw data alone does not provide business value.
 
 This project answers key business questions such as:
 
-Who are the most valuable customers?
+- **Who are the most valuable customers?**
+- **What factors influence purchase decisions?**
+- **Which customer segments drive maximum revenue?**
+- **What is the repeat purchase behavior?**
+- **How can the business improve customer retention?**
 
-What factors influence purchase decisions?
+---
 
-Which customer segments drive maximum revenue?
+# 🔄 Project Workflow
 
-What is the repeat purchase behavior?
+## 1️⃣ Data Preparation & EDA (Python)
 
-How can the business improve customer retention?
+- Import raw dataset  
+- Data cleaning (missing values, duplicates, formatting)  
+- Feature engineering  
+- Exploratory Data Analysis (EDA)  
+- Customer segmentation logic  
+- Business metric calculations  
 
-🔄 Project Workflow
-1️⃣ Data Preparation & EDA (Python)
+📂 **File:** `Customer_shopping_behavior_analysis.ipynb`
 
-Import raw dataset
+---
 
-Data cleaning (missing values, duplicates, formatting)
+## 2️⃣ Database Creation & SQL Analysis
 
-Feature engineering
+- Create SQL database  
+- Load cleaned data into SQL  
+- Write business queries  
+- Extract insights using joins, aggregations, subqueries  
+- Segment customers based on behavior  
 
-Exploratory Data Analysis (EDA)
+📂 **File:** `Query's.sql`
 
-Customer segmentation logic
+---
 
-Business metric calculations
+## 3️⃣ Data Visualization (Power BI)
 
-📂 File: Customer_shopping_behavior_analysis.ipynb
+- Connect SQL database to Power BI  
+- Create interactive dashboard  
+- KPI Cards (Revenue, Orders, Customers)  
+- Customer segmentation visuals  
+- Trend analysis  
+- Drill-through insights  
 
-2️⃣ Database Creation & SQL Analysis
+📂 **File:** `customer behavior analysis dashboard.pbix`
 
-Create SQL database
+---
 
-Load cleaned data into SQL
+## 4️⃣ Reporting & Presentation
 
-Write business queries
+- Write structured business report  
+- Create presentation deck using Gamma AI  
+- Present actionable insights  
+- Provide strategic recommendations  
 
-Extract insights using joins, aggregations, subqueries
+---
 
-Segment customers based on behavior
+# 📊 Key Analysis Performed
 
-📂 File: Query's.sql
+✔ **Customer Segmentation**  
+✔ **Revenue Analysis**  
+✔ **Repeat vs One-time Customers**  
+✔ **Product Category Performance**  
+✔ **Purchase Frequency**  
+✔ **Customer Lifetime Value (CLV)**  
+✔ **Loyalty Insights**  
+✔ **Seasonal Trends**
 
-3️⃣ Data Visualization (Power BI)
+---
 
-Connect SQL database to Power BI
-
-Create interactive dashboard
-
-KPI Cards (Revenue, Orders, Customers)
-
-Customer segmentation visuals
-
-Trend analysis
-
-Drill-through insights
-
-📂 File: customer behavior analysis dashboard.pbix
-
-4️⃣ Reporting & Presentation
-
-Write structured business report
-
-Create presentation deck using Gamma AI
-
-Present actionable insights
-
-Provide strategic recommendations
-
-📊 Key Analysis Performed
-
-✔ Customer Segmentation
-✔ Revenue Analysis
-✔ Repeat vs One-time Customers
-✔ Product Category Performance
-✔ Purchase Frequency
-✔ Customer Lifetime Value (CLV)
-✔ Loyalty Insights
-✔ Seasonal Trends
-
-📁 Repository Structure
+# 📁 Repository Structure
 customer_behaviour_analysis/
 │
 ├── Customer_Shopping_Behavior_Analysis.ipynb
@@ -119,10 +112,18 @@ customer_behaviour_analysis/
 ├── customer_behavior_dashboard.pbix
 ├── project_report.pdf
 └── README.md
-🛠️ How to Use This Project
-Step 1️⃣ Clone the Repository
+
+
+---
+
+# 🛠️ How to Use This Project
+
+## Step 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/panaskargaurav/customer_behaviour_analysis
-Step 2️⃣ Run Python Notebook
+
+## Step 2️⃣ Run Python Notebook
 
 Open:
 
@@ -140,21 +141,17 @@ SQL Database Connection
 
 Loading Data into SQL
 
-Step 3️⃣ Setup SQL Database
+## Step 3️⃣ Setup SQL Database
 
 Create a new database in:
 
-MySQL
-
-PostgreSQL
-
-MS SQL Server
+MySQL / PostgreSQL / MS SQL Server
 
 Execute SQL script:
 
 customer_behavior_sql_queries.sql
 
-Run queries to answer business questions.
+Run queries to answer business questions
 
 Step 4️⃣ Open Power BI Dashboard
 
@@ -228,4 +225,4 @@ Share feedback & suggestions
 👨🏻‍💻 Author
 
 Gaurav Panaskar
-🔗 https://www.linkedin.com/in/gaurav-panaskar
+🔗 LinkedIn: https://www.linkedin.com/in/gaurav-panaskar
