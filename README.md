@@ -14,7 +14,6 @@ The objective is to analyze customer shopping behavior, identify patterns in pur
 
 The project transforms raw transactional data into meaningful business intelligence insights, supporting data-driven decision-making.
 
-
 🛠️ Tech Stack
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -145,13 +144,17 @@ Step 3️⃣ Setup SQL Database
 
 Create a new database in:
 
-MySQL / PostgreSQL / MS SQL Server
+MySQL
+
+PostgreSQL
+
+MS SQL Server
 
 Execute SQL script:
 
 customer_behavior_sql_queries.sql
 
-Run queries to answer business questions
+Run queries to answer business questions.
 
 Step 4️⃣ Open Power BI Dashboard
 
@@ -197,8 +200,6 @@ End-to-End Project Execution
 
 🎯 Why This Project Matters
 
-
-
 ✔ Work with raw data
 ✔ Write efficient SQL queries
 ✔ Build dashboards
@@ -226,4 +227,5 @@ Share feedback & suggestions
 
 👨🏻‍💻 Author
 
-https://www.linkedin.com/in/gaurav-panaskar
+Gaurav Panaskar
+🔗 https://www.linkedin.com/in/gaurav-panaskar
