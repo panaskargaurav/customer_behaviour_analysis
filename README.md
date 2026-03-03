@@ -118,106 +118,110 @@ This project answers key business questions such as:
 
 git clone https://github.com/panaskargaurav/customer_behaviour_analysis
 
+---
+
 ## Step 2️⃣ Run Python Notebook
 
 Open:
 
-Customer_shopping_behavior_analysis.ipynb
+`Customer_shopping_behavior_analysis.ipynb`
 
 This notebook includes:
 
-Data Import
+- **Data Import**
+- **Data Cleaning**
+- **Data Transformation**
+- **SQL Database Connection**
+- **Loading Data into SQL**
 
-Data Cleaning
-
-Data Transformation
-
-SQL Database Connection
-
-Loading Data into SQL
+---
 
 ## Step 3️⃣ Setup SQL Database
 
 Create a new database in:
 
-MySQL / PostgreSQL / MS SQL Server
+- **MySQL**
+- **PostgreSQL**
+- **MS SQL Server**
 
 Execute SQL script:
 
-customer_behavior_sql_queries.sql
+`customer_behavior_sql_queries.sql`
 
-Run queries to answer business questions
+- Run queries to answer business questions
+- Analyze customer segments
+- Generate revenue insights
+
+---
 
 ## Step 4️⃣ Open Power BI Dashboard
 
 Open:
 
-customer_behavior_dashboard.pbix
+`customer_behavior_dashboard.pbix`
 
-Connect to your SQL database
+- **Connect to your SQL database**
+- **Refresh data**
+- **Explore interactive dashboard**
+- **Analyze KPIs and trends**
 
-Refresh data
+---
 
-Explore interactive dashboard
+# 📈 Business Insights (Sample)
 
-## 📈 Business Insights (Sample)
+- **High-value customers contribute disproportionately to total revenue**
+- **Repeat customers show higher average order value**
+- **Certain product categories drive majority of sales**
+- **Seasonal patterns influence shopping behavior**
+- **Loyalty strategies can significantly increase retention**
 
-High-value customers contribute disproportionately to total revenue.
+---
 
-Repeat customers show higher average order value.
+# 📚 Skills Demonstrated
 
-Certain product categories drive majority of sales.
+- **Data Cleaning & Preprocessing**
+- **Exploratory Data Analysis (EDA)**
+- **SQL Query Writing**
+- **Business KPI Development**
+- **Dashboard Design**
+- **Data Storytelling**
+- **Analytical Thinking**
+- **End-to-End Project Execution**
 
-Seasonal patterns influence shopping behavior.
+---
 
-Loyalty strategies can significantly increase retention.
+# 🎯 Why This Project Matters
 
-## 📚 Skills Demonstrated
-
-Data Cleaning & Preprocessing
-
-Exploratory Data Analysis (EDA)
-
-SQL Query Writing
-
-Business KPI Development
-
-Dashboard Design
-
-Data Storytelling
-
-Analytical Thinking
-
-End-to-End Project Execution
-
-## 🎯 Why This Project Matters
-
-✔ Work with raw data
-✔ Write efficient SQL queries
-✔ Build dashboards
-✔ Translate insights into business recommendations
+- ✔ **Work with raw data**
+- ✔ **Write efficient SQL queries**
+- ✔ **Build dashboards**
+- ✔ **Translate insights into business recommendations**
 
 This project showcases all of the above in one complete workflow.
 
-## 🧠 Future Improvements
+---
 
-Add RFM Segmentation
+# 🧠 Future Improvements
 
-Implement Customer Lifetime Value Prediction Model
+- **Add RFM Segmentation**
+- **Implement Customer Lifetime Value Prediction Model**
+- **Deploy dashboard to Power BI Service**
+- **Build Streamlit Web App Version**
+- **Automate data pipeline**
 
-Deploy dashboard to Power BI Service
+---
 
-Build Streamlit Web App Version
+# ⭐ If You Like This Project
 
-Automate data pipeline
+- **Give this repository a ⭐ on GitHub**
+- **Connect with me on LinkedIn**
+- **Share feedback & suggestions**
 
-## ⭐ If You Like This Project
+---
 
-Give this repository a ⭐ on GitHub
-Connect with me on LinkedIn
-Share feedback & suggestions
+# 👨🏻‍💻 Author
 
-## 👨🏻‍💻 Author
-
-Gaurav Panaskar
+**Gaurav Panaskar**  
 🔗 LinkedIn: https://www.linkedin.com/in/gaurav-panaskar
+
+---
